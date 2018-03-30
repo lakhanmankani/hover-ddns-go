@@ -1,6 +1,15 @@
 # hover-ddns-go
 Hover DDNS script written in Go.
 
+## Installation
+```bash
+$ go get -u github.com/lakhanmankani/hover-ddns-go
+```
+or
+```bash
+$ git clone https://github.com/lakhanmankani/hover-ddns-go.git
+```
+
 ## Setup
 1. Run main.go to generate the config file.
 ```bash
