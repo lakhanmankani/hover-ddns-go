@@ -16,7 +16,7 @@ $ git clone https://github.com/lakhanmankani/hover-ddns-go.git
 $ go run main.go
 ```
 
-2. Edit config.json file. Enter your username and password in the username and password value fields. For every domain create a new object in the "domains" array. Enter the domainID and dnsID in the corresponding value field.
+2. Edit config.json file. Enter your username and password in the username and password value fields. For every domain create a new object in the "domains" array, enter the domainID and dnsID in the corresponding value field.
 
 Note: You can find the domainID and dnsID of the domain at https://www.hover.com/api/domains/YOURDOMAIN.COM/dns
 ## Usage
