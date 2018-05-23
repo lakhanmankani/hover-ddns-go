@@ -1,5 +1,5 @@
 # hover-ddns-go
-Hover DDNS script written in Go.
+Hover DDNS script written in Go. This project uses the unoficial Hover API.
 
 ## Installation
 ```bash
